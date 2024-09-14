@@ -1,0 +1,12 @@
+Page to make php 
+Vendor_Contact
+Vendor_Header
+Vendor_Order
+Vendor_product
+vendor_update_product
+vendor_update_profile
+logical : log in maa if else for vendor.
+sabai eutai ma connect garne ani aru vendor le haleko kura arko le herna namilne 
+admin le chai sab herne 
+tesko database ma elation banaune foreign key sanga ko relation banera 
+order ko php vendors sanga ko lagi chuttai id banaune database milaunu parcha
